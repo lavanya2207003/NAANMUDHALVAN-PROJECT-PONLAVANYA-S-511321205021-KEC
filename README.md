@@ -2,8 +2,10 @@
 
 PROJECT CREATED BY : 
 
-Name: PON LAVANYA S
-College: Kingston Engineering College
+Name: PON LAVANYA S (511321205021)
+
+College Name: Kingston Engineering College
+
 College Code:5113 
 
 
